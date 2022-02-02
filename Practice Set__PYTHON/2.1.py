@@ -1,0 +1,5 @@
+a=input("Enter a 1st Number")
+a=int(a)
+b=input("Enter 2nd No.")
+b=int(b)
+print("The adddition of twp numbers is",a+b)
